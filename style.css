@@ -14,6 +14,10 @@ body {
   align-items: center;
 }
 
+#confetti-canvas {
+  position: absolute;
+}
+
 .game-container {
   width: 530px;
   height: 600px;
